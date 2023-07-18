@@ -6,3 +6,4 @@ public abstract class BaseException extends Exception {
         super(code);
     }
 }
+hdfjhw
